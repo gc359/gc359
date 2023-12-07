@@ -7,6 +7,8 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=gc359&theme=matrix)](https://github.com/gc359/github-profile-trophy)
 
 ![GC359's GitHub stats](https://github-readme-stats.vercel.app/api?username=gc359&show_icons=true&theme=chartreuse-dark)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gc359&layout=compact&theme=chartreuse-dark)
 <!--
 **gc359/gc359** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
