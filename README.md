@@ -1,5 +1,5 @@
 ### Hi there 👋
-![banner](https://github.com/gc359/gc359/assets/113853920/0a59c69e-6bb9-4323-82c6-c351b3aa4854)
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/gc359/github-profile-trophy)
 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Black+Ops+One&size=45&duration=7500&pause=1000&center=true&vCenter=true&random=true&width=1250&height=100&lines=Protecting+digital+landscapes.;Securing+the+future%2C+one+byte+at+a+time.;Building+a+fortress+of+cyber+defenses.;Defending+against+ever-evolving+threats.;Turning+challenges+into+opportunities.;Safeguarding+data%2C+securing+trust.;Unlocking+the+doors+to+a+secure+digital+world.;Where+technology+meets+security.;Securing+networks%2C+elevating+success.;Innovating+security+for+a+safer+tomorrow.;Success+through+a+proactive+mindset.;Trust+but+verify.;Empowering+businesses+with+security+solutions.;Redefining+success+through+cyber.;Securing+the+foundation+of+digital+success.;Creating+a+secure+environment+.;Defending+against+digital+threats.;Your+security%2C+our+commitment+to+success.;Strategizing+for+success%2C+fortifying+against+threats.;Elevating+your+security+posture.;Resilience+in+the+face+of+challenges.;Navigating+the+cybersecurity+landscape.;The+bridge+to+secure+futures.)](https://git.io/typing-svg)
