@@ -6,6 +6,13 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=gc359&theme=matrix)](https://github.com/gc359/github-profile-trophy)
 
+<a href="https://github.com/gc359/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=gc359&show_icons=true&theme=chartreuse-dark" />
+</a>
+<a href="https://github.com/gc359/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gc359&layout=compact&theme=chartreuse-dark&card_width=320" />
+</a>
+
 ![GC359's GitHub stats](https://github-readme-stats.vercel.app/api?username=gc359&show_icons=true&theme=chartreuse-dark)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gc359&layout=compact&theme=chartreuse-dark)
