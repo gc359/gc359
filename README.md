@@ -8,6 +8,9 @@
 ```javascript
 const GC359 = {
    pronouns: "he" | "him",
+   currentlyCertified: ["CompTIA Security+,
+                        "AWS CCP",
+                        "AZ-900", "SC-900]
    code: ["HTML", "JS", "CSS", "PHP", "PYTHON"],
    passionateAbout: ["Cybersecurity", "Scripting", "Security Engineering"],
    currentlyStudying: {
